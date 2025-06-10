@@ -3,7 +3,7 @@
 🎓 Computer Science Student | 💻 Passionate about learning and building  
 📚 Currently working on: College group project  
 🌱 Exploring: Web Development, C++, and GitHub collaboration  
-📫 Reach me: mainak123@gmail.com
+📫 Reach me: mainakcsegit@gmail.com
 
 ---
 
